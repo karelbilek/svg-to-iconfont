@@ -54,6 +54,8 @@ It uses fontcustom because it works the best and is actually updated.
 
 It uses fontforge because that's what fontcustom uses.
 
+It uses ruby because fontcustom installs through rubygems.
+
 ## License
 
 MIT
