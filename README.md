@@ -52,7 +52,7 @@ It uses inkscape and python3 for just resizing and centering SVGs, because I did
 
 It uses fontcustom because it works the best for the conversion and is actually fixing bugs.
 
-It uses fontforge because that's what fontcustom uses.
+It uses fontforge, bramstein/sfnt2woff-zopfli and google/woff2 because that's what fontcustom uses.
 
 It uses ruby because fontcustom installs through rubygems.
 
