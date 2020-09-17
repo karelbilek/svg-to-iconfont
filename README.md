@@ -31,7 +31,7 @@ The docker also uses [inkscape](https://gitlab.com/inkscape/inkscape) for resizi
 Add config.yml in the `font` folder, do
 
 ```
-docker run --user="$(id -u):$(id -g)" -v ${PWD}:/project karel3d/svg-to-iconfont icon-font-name -c config.yml
+docker run --user="$(id -u):$(id -g)" -v ${PWD}:/project karel3d/svg-to-iconfont icon-font-name config.yml
 ```
 
 ## why not just use fontcustom?
