@@ -56,6 +56,8 @@ It uses fontforge because that's what fontcustom uses.
 
 It uses ruby because fontcustom installs through rubygems.
 
+It uses docker because all of the above is a pain to install.
+
 ## License
 
 MIT
