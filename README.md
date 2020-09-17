@@ -50,7 +50,7 @@ The underlying npm package, that actually does the job - [svgicons2svgfont](http
 
 It uses inkscape and python3 for just resizing and centering SVGs, because I didn't find anything better that actually works.
 
-It uses fontcustom because it works the best and is actually updated.
+It uses fontcustom because it works the best for the conversion and is actually fixing bugs.
 
 It uses fontforge because that's what fontcustom uses.
 
